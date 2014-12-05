@@ -1,6 +1,12 @@
 OSC - Subspace Clustering for Sequential Data
 ===
 
+## NOTICE
+
+THIS REPOSITORY IS DEPRECATED. PLEASE FIND MAINTAINED CODE IN THE [SUBKIT REPOSITORY][6]
+
+## About
+
 MATLAB implementation of "[Subspace Clustering for Sequential Data][1]" ([PDF][5])
 
 	Subspace Clustering for Sequential Data
@@ -27,3 +33,4 @@ Faces: [The Extended Yale Face Database B][3]
 [3]: http://archive.org/
 [4]: http://vision.ucsd.edu/~leekc/ExtYaleDatabase/ExtYaleB.html
 [5]: http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Tierney_Subspace_Clustering_for_2014_CVPR_paper.pdf
+[6]: http://github.com/sjtrny/SubKit
